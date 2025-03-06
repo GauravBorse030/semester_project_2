@@ -1,0 +1,15 @@
+Project Title: Cafe Management System
+
+Abstract:
+The Cafe Management System is a software application designed to streamline the daily operations of a café, allowing for efficient management of orders, menu items, billing, and inventory. Developed using Java Swing and the NetBeans IDE, this system provides a user-friendly interface for café staff and management to handle various tasks seamlessly. The application offers features such as placing orders, generating invoices, managing customer records, and keeping track of stock levels. By automating these processes, the system aims to reduce human error, increase operational efficiency, and improve customer service. The Café Management System is a practical solution for small to medium-sized cafes looking to modernize their operations and enhance their business processes.
+Keywords: Python Django, URL Extraction, Data Analysis, VS Code IDE, Billing System, Order Management, User Interface, Automation, Customer Service, Web Development, Menu Management
+
+Domain/Technology: Python(Django),  Sql
+
+Branch: CSE (DS)
+
+List of Project Group Members:
+•	Harshvardhan Ramesh Desale	DS018	231106036	9834229044	
+•	Gaurav Bhojraj Borse                DS031   231106030        8830438056    (Team Leader)
+•	Rohit  Dileep Solunkhe		DS023	231106022	7709897715
+
