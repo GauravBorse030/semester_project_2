@@ -10,6 +10,6 @@ Branch: CSE (DS)
 
 List of Project Group Members:
 •	Harshvardhan Ramesh Desale	DS018	231106036	9834229044	
-•	Gaurav Bhojraj Borse                DS031   231106030        8830438056    (Team Leader)
+•	Gaurav Bhojraj Borse        DS031   231106030   8830438056    (Team Leader)
 •	Rohit  Dileep Solunkhe		DS023	231106022	7709897715
-
+•	Lokesh  Govinda Patil		DS023	231106047	9096567035
