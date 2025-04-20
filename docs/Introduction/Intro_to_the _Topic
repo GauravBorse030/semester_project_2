@@ -1,0 +1,30 @@
+Cafe Management System – Introduction:
+
+Welcome to the Cafe Management System, a smart and interactive web-based platform designed to streamline the entire food ordering and management process inside a cafe or restaurant. This project is built to modernize traditional cafe operations by bringing them online. Customers can directly view the menu, place orders from their table, and even pay using UPI — all from a simple and elegant webpage. Meanwhile, cafe staff and chefs can manage orders and food items easily from the admin panel.
+
+ Key Features:
+Dynamic Menu: Food items like name, price, and image can be added, updated, or deleted directly from the Django admin panel — no need to edit the code.
+
+>Table-Based Ordering: Customers enter their table number and place orders quickly from their device.
+
+>Order Summary & Bill: Displays all selected items with a total bill amount.
+
+>Food Images: Every food item is showcased with a mouth-watering image to help customers decide faster.
+
+>Digital Payment: Integrated Google Pay UPI QR Code allows customers to scan and pay instantly.
+
+>Admin Panel: Cafe owners/staff can log in to manage the entire system — no tech skills required.
+
+Tech Stack:
+Frontend: HTML, CSS, JavaScript
+
+Backend: Django (Python)
+
+Database: SQLite
+
+Admin Panel: Django’s powerful built-in admin interface
+
+Purpose:
+The goal of this system is to digitize cafe operations, enhance customer experience, and make order handling faster, cleaner, and more efficient.
+
+Whether it's a small cafe or a growing restaurant, this system offers a professional and practical solution to take your service to the next level.
