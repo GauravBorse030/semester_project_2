@@ -1,0 +1,41 @@
+----------------Materials, Tools & Software Required for the Project------------------------
+1. Software Requirements
+Operating System
+Windows / macOS / Linux (any OS supporting Python and web browsers)
+
+Programming Language
+Python (v3.10+) – Backend logic and server-side scripting.
+
+Web Technologies
+HTML5, CSS3, JavaScript – Frontend user interface.
+
+Bootstrap (optional) – For responsive design.
+
+Framework
+Django – Python-based web framework for backend development and admin interface.
+
+Database
+SQLite – Lightweight database used by Django by default.
+
+Image Tools (optional)
+GIMP / Photoshop / Online Editors – To resize/edit food item images.
+
+Free image sources: Unsplash, Pexels (for food photos)
+
+2. Development Tools
+Code Editor / IDE
+Visual Studio Code (VS Code) – Preferred editor for writing and debugging code.
+
+Browser
+Google Chrome / Firefox – To test the website’s UI and functionality.
+
+Package Manager
+pip – Python package installer used for installing Django and other libraries.
+
+3. Optional Tools
+Git – For version control.
+
+GitHub – To host and share project code.
+
+PythonAnywhere / Heroku – For project deployment and live access.
+

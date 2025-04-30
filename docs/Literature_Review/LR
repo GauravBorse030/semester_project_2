@@ -1,0 +1,36 @@
+ -----------------Summary of Existing Technologies / Methods / Solutions-------------------
+Several research works and systems have been developed to improve order handling, menu management, and customer experience in cafes and restaurants. Below are summaries of key existing systems:
+
+1. Restaurant Ordering System Using Mobile Devices
+Summary:
+This system uses mobile devices like tablets or smartphones to allow customers to place their orders directly. The orders are sent to the kitchen in real-time via a Wi-Fi network, improving speed and reducing human error.
+
+Key Features:
+    Touch-based UI
+    Wireless order transmission
+    Kitchen display integration
+
+Citation:
+A.Waghmare, S.Patil, (2016). Mobile Based Restaurant System. International Journal of Scientific and Research Publications, 6(1), 2250-3153.
+
+2. QR Code Menu & Ordering
+    >Customers scan a QR code on their table to access a digital menu.
+    >Orders are placed directly from their phones, reducing dependency on wait staff.
+    >Helps with contactless service—especially popular post-COVID.
+
+3. Online Food Ordering Platforms
+    >Platforms like Zomato, Swiggy, and Uber Eats allow online ordering and delivery.
+    >Useful for cafes offering takeout or home delivery services.
+
+4. Custom Web-based Ordering Systems
+    >Many small cafes now prefer having a custom web app tailored to their menu, table layout, and branding.
+    >Provides full control over design, data, and pricing.
+    >Usually built using:
+        Frontend: HTML, CSS, JavaScript
+        Backend: Python (Django)
+        Database: SQLite, MySQL, PostgreSQL
+
+5. Admin Management Dashboards
+    >Allow staff to add/update/delete food items, manage pricing, view orders, and update status.
+    >Often integrated into the main web system using frameworks like Django Admin, React Admin, etc.
+

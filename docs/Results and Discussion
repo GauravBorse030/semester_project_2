@@ -1,0 +1,50 @@
+Results and Discussion
+The Cafe Management System was successfully developed using Django as the backend framework and HTML/CSS/JavaScript for the frontend. The system allows customers to browse the menu, place orders from their table, and make payments using a QR code. Chefs or admins can manage the food items directly from the admin panel.
+
+🔍 Key Results
+User-Friendly Interface
+
+Customers can view all menu items with images and prices.
+
+Responsive layout works well on both desktop and mobile devices.
+
+Real-Time Order Placement
+
+Orders are placed instantly and stored in the database.
+
+Each order includes the table number, food item, and price.
+
+Dynamic Order Summary
+
+The order summary updates in real time as customers add or remove items.
+
+Total cost is automatically calculated and displayed.
+
+QR Code Payment Integration
+
+Customers can scan a QR code and pay via Google Pay or any UPI-supported app.
+
+Admin Panel Capabilities
+
+Add, update, or delete food items (name, image, price) directly via Django admin.
+
+All orders can be viewed, filtered, and managed from the backend.
+
+📈 Discussion
+The system achieved its primary goal of digitizing the cafe ordering process, which improves efficiency, reduces wait time, and minimizes human error. By using Django’s built-in admin interface, the project eliminates the need for building a separate management dashboard.
+
+Limitations Identified:
+
+Currently, no login/authentication system for staff or chefs.
+
+No order status tracking (e.g., "In Preparation", "Ready").
+
+Lacks email or SMS notifications.
+
+Future Enhancements:
+
+Implement user authentication for waiters and chefs.
+
+Add order status updates.
+
+Integrate a dashboard for sales and analytics.

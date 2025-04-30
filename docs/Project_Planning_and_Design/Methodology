@@ -1,0 +1,37 @@
+--------------Methodology / Approach Used for the Project----------------------
+The development of the Cafe Management System follows a structured and iterative approach based on the Software Development Life Cycle (SDLC). The steps below outline the complete process:
+
+1. Requirement Analysis
+Conducted discussions with cafe staff and potential users to understand the workflow and pain points.
+
+Key needs identified: digital menu access, real-time order placement, chef’s dashboard, food item management via admin panel.
+
+2. System Design
+Frontend Design: Created a responsive and user-friendly interface using HTML, CSS, and JavaScript.
+
+Backend Design: Designed a scalable backend using Django, a high-level Python web framework.
+
+Database Schema: Modeled using SQLite, defining tables for FoodItems, Orders, Tables, etc.
+
+3. Implementation
+Frontend Integration: Menu page built to allow customers to select items and view totals.
+
+Django Views & Models: Connected frontend to backend, allowing data flow from form to database.
+
+Admin Panel Customization: Enabled adding, editing, deleting food items and updating prices/images via Django admin.
+
+4. Testing
+Unit and integration testing performed to ensure proper working of order flow, admin panel, and customer interface.
+
+Fixed bugs like missing image paths, incorrect price totals, and invalid inputs.
+
+5. Deployment & Hosting
+Configured settings.py for static and media files.
+
+Local deployment tested using runserver; ready for production deployment on platforms like Heroku or PythonAnywhere.
+
+6. Feedback & Iteration
+Feedback taken from test users (students, cafe owners).
+
+Iterative improvements made such as image previews, QR integration for table-specific ordering, and payment QR code display.
+
