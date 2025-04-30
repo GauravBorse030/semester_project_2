@@ -1,0 +1,15 @@
+-----------------Objectiv------------------
+The main objective of this Cafe Management System is to develop a user-friendly digital platform that streamlines the entire order and menu management process within a cafe. This system is designed to:
+
+Enable customers to place orders digitally from their table using a web interface.
+
+Provide an interactive admin panel where staff can:
+
+1)Add new food items.
+2)Edit food prices and images.
+3)Delete outdated menu items.
+4)Automatically assign orders to specific table numbers for better tracking.
+5)Maintain an up-to-date order summary for chefs and staff to view and manage orders efficiently.
+6)Facilitate quick and secure payment through integrated UPI QR code options.
+
+Ultimately, the project aims to reduce manual errors, enhance customer satisfaction, and improve operational efficiency inside the cafe.
