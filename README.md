@@ -25,25 +25,16 @@ A modern, responsive, and user-friendly web application built using Django, desi
 
 ## 📂 Folder Structure
 
-cafe_project/
+📁 cafe_project/
 │
-├── cafeapp/
-│ ├── migrations/
-│ ├── static/
-│ ├── templates/
-│ ├── admin.py
-│ ├── models.py
-│ ├── views.py
-│ └── urls.py
+├── 📁 cafeapp/
+│   ├── 📁 migrations/ | 📁 static/ | 📁 templates/
+│   ├── admin.py | models.py | views.py | urls.py
 │
-├── cafe_project/
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
+├── 📁 cafe_project/
+│   ├── settings.py | urls.py | wsgi.py
 │
-├── db.sqlite3
-├── manage.py
-└── README.md
+├── db.sqlite3 | manage.py | README.md
 
 
 ## 🔧 Setup Instructions
