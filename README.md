@@ -26,9 +26,13 @@ A modern, responsive, and user-friendly web application built using Django, desi
 ### 📁 Project Contents
 
 cafeapp/ – Core app containing views, models, admin panel, templates, and static files
+
 cafe_project/ – Main Django project with settings and URLs
+
 db.sqlite3 – Default database file
+
 manage.py – Django’s command-line utility
+
 README.md – Project documentation
 
 ## 🔧 Setup Instructions
