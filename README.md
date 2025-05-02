@@ -23,19 +23,13 @@ A modern, responsive, and user-friendly web application built using Django, desi
 
 
 
-## 📂 Folder Structure
+### 📁 Project Contents
 
-📁 cafe_project/
-│
-├── 📁 cafeapp/
-│   ├── 📁 migrations/ | 📁 static/ | 📁 templates/
-│   ├── admin.py | models.py | views.py | urls.py
-│
-├── 📁 cafe_project/
-│   ├── settings.py | urls.py | wsgi.py
-│
-├── db.sqlite3 | manage.py | README.md
-
+cafeapp/ – Core app containing views, models, admin panel, templates, and static files
+cafe_project/ – Main Django project with settings and URLs
+db.sqlite3 – Default database file
+manage.py – Django’s command-line utility
+README.md – Project documentation
 
 ## 🔧 Setup Instructions
 
